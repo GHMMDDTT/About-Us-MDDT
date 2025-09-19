@@ -1,4 +1,6 @@
-# Welcome to MDDTHello, User! We introduce ourselves, we are MDDT, but...
+# Welcome to MDDT
+
+Hello, User! We introduce ourselves, we are MDDT, but...
 
 ## Who are we?
 
