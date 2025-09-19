@@ -1,15 +1,15 @@
-# Bienvenido a MDDT
+# Welcome to MDDT
 
-¡Hola, Usuario! Nos presentamos, somos MDDT, pero...
+Hello, User! We introduce ourselves, we are MDDT, but...
 
-## ¿Quienes somos?
+## Who are we?
 
-MDDT (tambien llamdo **M*oderation* D*eveloper* D*esign* T*eam***) que solo quiere publicar o transmitir nuestro productos de forma gratuita y publica, ademas, somos un grupo de desarrolar productos para mejorar sus eficiencia con ciertas herramientras.
+MDDT (also called **M*oderation* D*eveloper* D*esign* T*eam***) that only wants to publish or broadcast our products for free and publicly; moreover, we are a group developing products to improve their efficiency with certain tools.
 
-Asi mismo, de resolver problemas que vemos por el camino por limitaciones o errores que provocan la ineficiencia (Aclaracion: no significa que es **mal diseñados** solo que no dan la flexibilidad estable para ayudar).
+Similarly, to solving problems that we encounter along the way due to limitations or errors that cause inefficiency (Clarification: this does not mean that they are **poorly designed** only that they do not provide the stable flexibility needed to help).
 
-## ¿Que hacemos?
+## What do we do?
 
-MDDT (tambien llamdo **M*oderation* D*eveloper* D*esign* T*eam***) solo hace proyectos de acuerdo a **necesidades que vemos** (nosotros) o **dificultades que vemos** (nosotros) en **Java** (por el momentos), para desarrolar los productos y ayudarlos.
+MDDT (also called **M*oderation* D*eveloper* D*esign* T*eam***) only does projects according to **needs that we see** (us) or **difficulties that we see** (us) in **Java** (for now), to develop the products and assist them.
 
-# Patrocinado por: GHRMMDDTT.
+# Sponsored by: GHRMMDDTT.
