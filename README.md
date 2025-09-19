@@ -1,8 +1,9 @@
-# Welcome to MDDT
+# Bienvenido a MDDT
 
-Hello, User! We introduce ourselves, we are MDDT, but...
+¡Hola, Usuario! Nos presentamos, somos MDDT, pero...
 
-## Who are we?
+## ¿Quienes somos?
 
-MDDT, whose full name is **Moderation Developer Design Team**, is responsible for moderating, designing, creating, or developing our products (repositories) in order to help you with an enhanced experience.
-MDDT is not just that, it is also a team that wants to revolutionize the technology industry with new things, new ideas, new methods, or functions.
+MDDT (tambien llamdo **M_oderation_ D_eveloper_ D_esign_ T_eam_**
+
+## ¿Que hacemos?
