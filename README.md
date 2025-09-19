@@ -12,4 +12,10 @@ Similarly, to solving problems that we encounter along the way due to limitation
 
 MDDT (also called **M*oderation* D*eveloper* D*esign* T*eam***) only does projects according to **needs that we see** (us) or **difficulties that we see** (us) in **Java** (for now), to develop the products and assist them.
 
+## Projects that we are active (doing):
+
+- Material Components: https://github.com/GHMMDDTT/Material-Components
+- Java Components: https://github.com/GHMMDDTT/Java-Components
+- Cappuccino Language: https://github.com/GHMMDDTT/Cappuccino-Language
+
 # Sponsored by: GHRMMDDTT.
