@@ -4,6 +4,6 @@
 
 ## ¿Quienes somos?
 
-MDDT (tambien llamdo **M*oderation*D_eveloper_ D_esign_ T_eam_**
+MDDT (tambien llamdo **M*oderation* D*eveloper* D*esign* T*eam***
 
 ## ¿Que hacemos?
